@@ -125,3 +125,7 @@ git push -u origin main
 | NumPy         | Numerical computations         |
 | Scikit-learn  | Linear Regression model        |
 | Matplotlib    | Charts and visualizations      |
+
+
+## Live link
+pankajsaxena23/Sales-forecasting-System
